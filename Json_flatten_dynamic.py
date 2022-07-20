@@ -1,3 +1,5 @@
+# comment : Example for the json dynamic flatten
+
 from pyspark.sql import types as T
 import pyspark.sql.functions as F
 
